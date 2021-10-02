@@ -1,4 +1,4 @@
-![banner.png](./image/github-banner.png)
+<img  alt="banner" src="./image/github-banner.png" />
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Long </h1>
 <h3 align="center">
  Full Stack Developer is my dream🚀,  I enjoy coding.
@@ -12,7 +12,7 @@
 
 <img align="right" alt="GIF" src="./image/code.gif" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Java, Flutter and Spring boot; 
@@ -72,12 +72,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=donglong-ops&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="donglong-ops's github stats"/>
   </a>
   
-  <br />
-  <br />
-
-  <a href="https://github.com/donglong-ops" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donglong-ops&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="donglong-ops's top languages" />
-  </a>
 </p>
 
 
