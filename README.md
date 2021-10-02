@@ -1,4 +1,4 @@
-<img  alt="banner" src="./image/github-banner.png" />
+<img  alt="banner" src="./image/banner.png" />
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Long </h1>
 <h3 align="center">
  Full Stack Developer is my dream🚀,  I enjoy coding.
