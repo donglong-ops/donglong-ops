@@ -1,17 +1,14 @@
 <img  alt="banner" src="./image/banner.png" />
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Long </h1>
 <h3 align="center">
- Full Stack Developer is my dream🚀,  I enjoy coding.
+ Back-end developer is my dream🚀,  I enjoy coding.
   <br />
   <br />
-  <div>
-    <a href="https://github.com/donglong-ops?tab=followers"><img src="https://img.shields.io/github/followers/donglong-ops?label=Followers&style=social" alt="GitHub Badge"></a>
-  </div>
   
 </h3>
 
-<img align="right" alt="GIF" src="./image/code.gif" width="500" height="320" />
-  
+<img align="right" alt="GIF" src="./image/code.gif" width="450" height="320" />
+
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
