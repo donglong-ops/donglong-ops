@@ -22,13 +22,13 @@
   <a href="https://twitter.com/HuuLong280299" target="_blank">
     <img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
   </a>
-  <a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-12b7561a6/" target="_blank">
+  <a href="https://www.linkedin.com/in/huu-long-12b7561a6/" target="_blank">
     <img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
   <a href="https://www.instagram.com/huulong__________/" target="_blank">
     <img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
   </a>
-  <a href="https://www.facebook.com/4TranThaiDuc/" target="_blank">
+  <a href="https://www.facebook.com/thaiduc0299/" target="_blank">
     <img align="left" alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
   </a>
 </p>
